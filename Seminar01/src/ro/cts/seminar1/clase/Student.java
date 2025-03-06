@@ -1,0 +1,30 @@
+package ro.cts.seminar1.clase;
+
+import ro.cts.seminar1.clase.Persoana;
+
+public class Student extends Persoana {
+    private int idStudent;
+
+    public Student() {
+        super("NumeStudent", 18);
+        this.idStudent = 0;
+    }
+
+    public Student(String nume, int varsta, int idStudent) {
+        super(nume, varsta);
+        this.idStudent = idStudent;
+    }
+
+    public int getIdStudent() {
+        return idStudent;
+    }
+
+    public void setIdStudent(int idStudent) {
+        this.idStudent = idStudent;
+    }
+
+    @Override
+    public float calculareVenit() {
+        return 0;
+    }
+}
