@@ -10,7 +10,16 @@ public class FactoryPlataOnline implements FactoryPlata {
     private double suma;
     private String data;
 
-    public FactoryPlataOnline(String emitator, String destinatar, double suma, String data) {
+    private static FactoryPlataOnline instance = null;
+
+    public static FactoryPlataOnline getInstance(String emitator, String destinatar, double suma, String data){
+        if(instance == null) {
+            instance = new FactoryPlataOnline(emitator, destinatar, suma, data);
+        }
+        return instance;
+    }
+
+    private FactoryPlataOnline(String emitator, String destinatar, double suma, String data) {
         this.emitator = emitator;
         this.destinatar = destinatar;
         this.suma = suma;
