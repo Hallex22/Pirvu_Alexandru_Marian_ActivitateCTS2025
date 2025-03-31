@@ -19,7 +19,7 @@ public class FactoryPlataOffline implements FactoryPlata {
         this.data = data;
     }
 
-    public static FactoryPlataOffline getInstance(String emitator, String destinatar, double suma, String data){
+    public static synchronized FactoryPlataOffline getInstance(String emitator, String destinatar, double suma, String data){
         if (instance==null){
             instance = new FactoryPlataOffline(emitator, destinatar, suma, data);
         }

@@ -12,7 +12,7 @@ public class FactoryPlataOnline implements FactoryPlata {
 
     private static FactoryPlataOnline instance = null;
 
-    public static FactoryPlataOnline getInstance(String emitator, String destinatar, double suma, String data){
+    public static synchronized FactoryPlataOnline getInstance(String emitator, String destinatar, double suma, String data){
         if(instance == null) {
             instance = new FactoryPlataOnline(emitator, destinatar, suma, data);
         }

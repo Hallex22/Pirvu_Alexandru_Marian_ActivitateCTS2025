@@ -25,6 +25,7 @@ public class Main {
         plataOffline1.setSuma(69);
 
         System.out.println(plataOffline1.toString());
+        plataNumerar.proceseazaPlata();
 
     }
 }

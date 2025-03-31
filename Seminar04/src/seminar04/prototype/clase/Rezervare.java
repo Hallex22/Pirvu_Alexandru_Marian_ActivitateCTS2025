@@ -15,7 +15,7 @@ public class Rezervare extends ARezervare {
     }
     @Override
     public ARezervare copiaza() {
-        Rezervare rezervareNoua = new Rezervare();
+        ARezervare rezervareNoua = new Rezervare();
 
         rezervareNoua.numeClient = this.numeClient;
         rezervareNoua.nrPersoane = this.nrPersoane;
