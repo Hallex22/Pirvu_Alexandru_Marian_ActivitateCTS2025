@@ -8,7 +8,17 @@ public class BrowserOptionsBuilder implements AbstractBuilder {
     private boolean disablePopups;
     private boolean maximizeWindow;
 
-    public BrowserOptionsBuilder() {
+    private static BrowserOptionsBuilder instance = null;
+
+    public static BrowserOptionsBuilder getInstance(String browserName) {
+        if (instance == null){
+            instance = new BrowserOptionsBuilder();
+            instance.setBrowserName(browserName);
+        }
+        return instance;
+    }
+
+    private BrowserOptionsBuilder() {
         this.browserName = "N/A";
         this.headless = false;
         this.acceptCookies = false;
@@ -48,7 +58,7 @@ public class BrowserOptionsBuilder implements AbstractBuilder {
     }
 
     @Override
-    public BrowserOptions build(String browserName) {
+    public BrowserOptions build() {
         BrowserOptions browserOptions = new BrowserOptions(browserName, this.headless,
                 this.acceptCookies, this.enableJavascript, this.disablePopups,
                 this.maximizeWindow);

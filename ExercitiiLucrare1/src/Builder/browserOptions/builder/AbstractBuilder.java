@@ -1,5 +1,5 @@
 package Builder.browserOptions.builder;
 
 public interface AbstractBuilder {
-    BrowserOptions build(String browserName);
+    BrowserOptions build();
 }
