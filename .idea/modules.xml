@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Spital/A1/A1.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Spital/A1/A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Spital/A2/A2.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Spital/A2/A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Spital/A3/A3.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Spital/A3/A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Spital/A4/A4.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Spital/A4/A4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS.iml" filepath="$PROJECT_DIR$/ActivitateCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/Seminar06/AdaptorClase/AdaptorClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar06/AdaptorObiecte/AdaptorObiecte.iml" filepath="$PROJECT_DIR$/Seminar06/AdaptorObiecte/AdaptorObiecte.iml" />
@@ -17,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar04/Seminar04.iml" filepath="$PROJECT_DIR$/Seminar04/Seminar04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar05/Seminar05.iml" filepath="$PROJECT_DIR$/Seminar05/Seminar05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar06/Seminar06.iml" filepath="$PROJECT_DIR$/Seminar06/Seminar06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Spital/Spital.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Spital/Spital.iml" />
     </modules>
   </component>
 </project>
