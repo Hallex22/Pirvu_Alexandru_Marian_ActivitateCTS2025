@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+ExercitiiLucrare1/ID/
+ExercitiiLucrare1/ID/ID.iml
 
 ### Eclipse ###
 .apt_generated
@@ -27,3 +29,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+ExercitiiLucrare1/ID/ID.iml
+
+ExercitiiLucrare1/ID/ID.iml
