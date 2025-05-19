@@ -26,7 +26,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar09/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminar09/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/ObserverC/ObserverC.iml" filepath="$PROJECT_DIR$/ProblemeCurs/ObserverC/ObserverC.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare2/SalaFitness/Problema1/Problema1.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare2/SalaFitness/Problema1/Problema1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare2/Test2CTS/Problema1Composite/Problema1Composite.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare2/Test2CTS/Problema1Composite/Problema1Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare2/SalaFitness/Problema2/Problema2.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare2/SalaFitness/Problema2/Problema2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare2/Test2CTS/Problema2Observer/Problema2Observer.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare2/Test2CTS/Problema2Observer/Problema2Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/ProblemeCurs.iml" filepath="$PROJECT_DIR$/ProblemeCurs/ProblemeCurs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/ProblemeCurs/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Restaurant/Restaurant.iml" />
@@ -49,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar09/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar09/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/StrategyC/StrategyC.iml" filepath="$PROJECT_DIR$/ProblemeCurs/StrategyC/StrategyC.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/ProblemeCurs/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare2/Test2CTS/Test2CTS.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare2/Test2CTS/Test2CTS.iml" />
     </modules>
   </component>
 </project>
