@@ -43,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExercitiiLucrare1/Spital/Spital.iml" filepath="$PROJECT_DIR$/ExercitiiLucrare1/Spital/Spital.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar09/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminar09/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/StrategyC/StrategyC.iml" filepath="$PROJECT_DIR$/ProblemeCurs/StrategyC/StrategyC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemeCurs/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/ProblemeCurs/TemplateMethod/TemplateMethod.iml" />
     </modules>
   </component>
 </project>
